@@ -1,1 +1,1 @@
-# data_theses
+# traning_python
